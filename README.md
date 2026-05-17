@@ -1,5 +1,5 @@
-# colorbot (purple)
-Colorbot written completly in python by fad3lover
+# ColorBot (Purple)
+Colorbot written fully in Python by fad3lover
 
 # Tested in
 Aimlabs (works)
